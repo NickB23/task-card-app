@@ -25,6 +25,7 @@
         "angular-in-memory-web-api": "*",
         "bootstrap": "*",
         "core-js": "*",
+        "font-awesome": "^4.7.0",
         "reflect-metadata": "*",
         "rxjs": "*",
         "systemjs": "*",
